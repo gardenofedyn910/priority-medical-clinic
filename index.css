@@ -465,3 +465,31 @@ body {
     }
 }
 
+.foot1 {
+    height: 200px;
+    background-color: rgb(7, 1, 57);
+    display: flex;
+    justify-content: space-around;
+}
+
+.foot3, .foot3 li {
+    list-style: none;
+    padding-top: 30px;
+    font-family: sans-serif;
+    color: white;
+}
+
+.foot3 li {
+    color: rgb(189, 187, 187);
+}
+
+.foot4, li, a {
+    list-style: none;
+    color: white;
+    font-family: sans-serif;
+    padding-top: 10px;
+}
+
+.foot5 {
+    padding-top: 60px;
+}
